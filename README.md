@@ -19,3 +19,5 @@
 - TailwindCSS
 - MUI
 - Figma
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=will-frankland)](https://github.com/will-frankland/github-readme-stats)
