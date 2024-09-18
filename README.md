@@ -5,3 +5,17 @@
 - 🌱 I’m currently learning on developing a deeper understanding of JavaScript and Node.js
 - 📫 How to reach me: will-frankland@hotmail.com
 - ⚡ Fun fact: I have two pets, a cat and a dog
+
+### Languages and Frameworks
+- JavaScript
+- TypeScript
+- Node.js
+- ReactJs
+- NextJs
+- Express
+- Axios
+- MongoDB
+- PostgreSQL
+- TailwindCSS
+- MUI
+- Figma
