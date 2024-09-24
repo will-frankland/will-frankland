@@ -6,7 +6,7 @@
 - 📫 How to reach me: will-frankland@hotmail.com
 - ⚡ Fun fact: I have two pets, a cat and a dog
 
-### Languages and Frameworks
+### Languages / Frameworks / Tools
 - JavaScript
 - TypeScript
 - Node.js
