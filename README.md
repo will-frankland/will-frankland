@@ -1,16 +1,15 @@
 ## Hi there 👋 I'm Will - Web Developer @ MeaningfulWork Inc
 
 
-- 🔭 I’m currently working on a donation platform for nonprofits that is being built with TypeScript, NextJs and Node.js
+- 🔭 I’m currently working on building Riverdale Web Designs - my own personal web development business
 - 🌱 I’m currently learning on developing a deeper understanding of JavaScript and Node.js
-- 📫 How to reach me: will-frankland@hotmail.com
+- 📫 How to reach me: will-frankland@hotmail.com || will@riverdalewebdesigns.com
 
 ### Languages / Frameworks / Tools
-- JavaScript
 - TypeScript
+- - NextJs
 - Node.js
 - ReactJs
-- NextJs
 - Express
 - Axios
 - MongoDB
