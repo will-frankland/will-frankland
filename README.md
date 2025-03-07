@@ -7,7 +7,7 @@
 
 ### Languages / Frameworks / Tools
 - TypeScript
-- - NextJs
+- NextJs
 - Node.js
 - ReactJs
 - Express
