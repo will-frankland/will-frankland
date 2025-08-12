@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on building Riverdale Web Designs - my web development business
-- 📫 How to reach me: will-frankland@hotmail.com | will@riverdalewebdesigns.com
+- 📫 How to reach me: willfrankland3@gmail.com | will@riverdalewebdesigns.com
 
 ### Languages / Frameworks / Tools
 - TypeScript
