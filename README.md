@@ -20,12 +20,11 @@
 </td>
     <td>
 
-- Axios  
 - MongoDB  
 - PostgreSQL  
 - TailwindCSS  
-- MUI  
-- Figma  
+- MUI
+- Figma
 
 </td>
   </tr>
