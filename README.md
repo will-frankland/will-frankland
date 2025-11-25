@@ -1,4 +1,4 @@
-## Hey, 👋 I'm Will - Web Developer @ MeaningfulWork Inc
+## Hey, 👋 I'm Will - Web Developer based in Toronto
 
 
 - 🔭 I’m currently building Riverdale Web Designs - my web development business
